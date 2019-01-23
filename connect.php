@@ -2,7 +2,7 @@
 
   $DbHost = "localhost";
   $DbUser = "id8098273_usvolley";
-  $Password = "1371517";
+  $Password = "*****";
   $DbName = "id8098273_dbvolley";
 
   $dsn = "mysql:host=$DbHost;dbname=$DbName";
